@@ -3,6 +3,8 @@ Title: Matthew Lee
 Description: Major: BS in Computer Science
 Description: Graduation: October 2020
 
+<img src="images/snhu-online-degree-cost-768x509.jpg" alt="snhu" class="inline"/>
+
 
 You can use the [editor on GitHub](https://github.com/Lodie53/Lodie53/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
