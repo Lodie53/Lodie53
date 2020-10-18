@@ -3,6 +3,7 @@
 
 <img src="images/snhu-online-degree-cost-768x509.jpg" alt="snhu" class="inline" width="200" height="300"/>
 
+2010 - 2018 Waubonsee Community College
 <ul>
 	<li>Eggs</li>
 	<li>Milk</li>
