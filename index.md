@@ -3,7 +3,7 @@
 
 <img src="images/snhu-online-degree-cost-768x509.jpg" alt="snhu" class="inline" width="200" height="300"/>
 
-2010 - 2018          Waubonsee Community College
+2018 - Present       Southern New Hampshire University
 <ul>
 	<li>Eggs</li>
 	<li>Milk</li>
