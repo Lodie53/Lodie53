@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<img src="images/snhu-online-degree-cost-768x509.jpg" alt="snhu" class="inline"/>
+<img src="images/snhu-online-degree-cost-768x509.jpg" alt="snhu" class="inline" width="200" height="300"/>
 
 
 You can use the [editor on GitHub](https://github.com/Lodie53/Lodie53/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
