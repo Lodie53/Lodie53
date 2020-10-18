@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
-Title: Matthew Lee
-Description: Major: BS in Computer Science
-Description: Graduation: October 2020
+
 
 <img src="images/snhu-online-degree-cost-768x509.jpg" alt="snhu" class="inline"/>
 
