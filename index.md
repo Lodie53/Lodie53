@@ -9,6 +9,12 @@
 	<li>Milk</li>
 	<li>Chocolate</li>
 </ul>
+2018 - Present Southern New Hampshire University
+<ul>
+	<li>Eggs</li>
+	<li>Milk</li>
+	<li>Chocolate</li>
+</ul>
 
 
 You can use the [editor on GitHub](https://github.com/Lodie53/Lodie53/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
